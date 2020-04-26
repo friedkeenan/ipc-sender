@@ -1,0 +1,4 @@
+pyusb
+Pillow
+audioread
+fs
